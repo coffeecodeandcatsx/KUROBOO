@@ -31,8 +31,13 @@ Und ja, unser kleiner Geist 👻 ist dein treuer Begleiter durch die düstere Fi
 
 ## 📲 Installation
 
-```bash
-git clone https://github.com/deinusername/kuroboo.git
-cd kuroboo
-npm install
-npx expo start
+
+
+
+<p align="center">
+  <img src="assets/kuroboo-logo.jpeg" alt="KUROBOO Logo" width="200"/>
+</p>
+
+<h1 align="center">KUROBOO 👻</h1>
+<p align="center">Deine süß-gruselige Horrorfilm-App für spooky Nights & cozy Screams 🎬💜</p>
+
