@@ -35,7 +35,7 @@ Und ja, unser kleiner Geist 👻 ist dein treuer Begleiter durch die düstere Fi
 
 
 <p align="center">
-  <img src="assets/kuroboo-logo.jpeg" alt="KUROBOO Logo" width="200"/>
+  <img src="assets/kuroboo-logo.jpeg" alt="IMG_9523.jpeg" width="200"/>
 </p>
 
 <h1 align="center">KUROBOO 👻</h1>
